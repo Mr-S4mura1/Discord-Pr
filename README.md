@@ -1,54 +1,13 @@
-# Astro Starter Kit: Basics
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/c794a7e1-b274-46d2-8043-aa362c0675d9)
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/fcabb462-f768-49c5-b280-a14225a1e127)
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/0e102c33-cc1c-43aa-865c-d8472e625fda)
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/71fec7f8-c610-4556-81b3-f88cb4a4ff3c)
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/48ca8962-5739-40e7-81fb-ddc25f982821)
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/5afed1d7-c54c-4c9f-845b-c3000a4030af)
+![imagen](https://github.com/Mr-S4mura1/Discord-Pr/assets/113269686/0e8993a0-9d0e-4656-bd64-0eff98784ca1)
 
-```sh
-npm create astro@latest -- --template basics
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
 
-## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).

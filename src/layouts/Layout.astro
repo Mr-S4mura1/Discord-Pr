@@ -1,0 +1,25 @@
+---
+interface Props {
+  title: string;
+}
+
+import "../styles/global.css";
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Astro description" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="Icon.ico" />
+    <meta name="generator" content={Astro.generator} />
+    <script src="https://kit.fontawesome.com/cf1ad10ff3.js" crossorigin="anonymous"></script>
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

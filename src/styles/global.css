@@ -1,0 +1,58 @@
+/* -------------------------------------------------------------------------- */
+/*                                   GG SANS                                  */
+/* -------------------------------------------------------------------------- */
+
+@font-face {
+  font-family: gg sans regular;
+  src: url(../fonts/gg\ sans\ Regular.ttf);
+}
+
+@font-face {
+  font-family: gg sans medium;
+  src: url(../fonts/gg\ sans\ Medium.ttf);
+}
+
+@font-face {
+  font-family: gg sans semibold;
+  src: url(../fonts/gg\ sans\ Semibold.ttf);
+}
+
+@font-face {
+  font-family: gg sans bold;
+  src: url(../fonts/gg\ sans\ Bold.ttf);
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                 ABC GINTON                                 */
+/* -------------------------------------------------------------------------- */
+
+@font-face {
+  font-family: abc light;
+  src: url(../fonts/ABCGintoNord-Light-Trial-BF651b7b774e227.otf);
+}
+
+@font-face {
+  font-family: abc medium;
+  src: url(../fonts/ABCGintoNord-Medium-Trial-BF651b7b7839fc0.otf);
+}
+
+@font-face {
+  font-family: abc regular;
+  src: url(../fonts/ABCGintoNord-Regular-Trial-BF651b7b7786b8a.otf);
+}
+
+@font-face {
+  font-family: abc bold;
+  src: url(../fonts/ABCGintoNord-Bold-Trial-BF651b7b7670e10.otf);
+}
+
+/* -------------------------------------------------------------------------- */
+/*                              ESTILOS GLOBALES                              */
+/* -------------------------------------------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gg sans regular, sans-serif;
+}
